@@ -1,4 +1,4 @@
 linkedin
 ========
 
-Linkedin OAuth2 plugin for everyauth
+LinkedIn OAuth2 plugin for everyauth
